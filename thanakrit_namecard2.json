@@ -11,7 +11,7 @@
       "Natural Language",
       "Frontend"
     ],
-    "profileImage": "./got.jpg"
+    "profileImage": "https://raw.githubusercontent.com/khonE3/thanakrit_namecard2/main/got.jpg"
   },
   {
     "name": "Kritchanat Malaikwan",
@@ -27,7 +27,7 @@
       "Frontend",
       "Backend"
     ],
-    "profileImage": "./bakwave.jpg"
+    "profileImage": "https://raw.githubusercontent.com/khonE3/thanakrit_namecard2/main/bakwave.jpg"
   },
   {
     "name": "Tanakit Sirite",
@@ -41,6 +41,6 @@
       "Backend",
       "Data Engineering"
     ],
-    "profileImage": "./DIW.jpg"
+    "profileImage": "https://raw.githubusercontent.com/khonE3/thanakrit_namecard2/main/DIW.jpg"
   }
 ]
