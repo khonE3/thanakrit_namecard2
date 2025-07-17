@@ -1,6 +1,27 @@
 {
-  "name": "Thanakrit Thuakthao",
-  "title": "Internet Programming Lecture"
-  "phone": "+66 123 456 789",
-  "email": "thanakrit.thu@ku.th"
-}
+      name: "Thanakrit Thualthao",
+      title: "AI Assistant",
+      email: "thanakrit.thu@ku.th",
+      phone: "0627391234",
+      location: "Chonburi, Thailand",
+      company: "KU SRC",
+      skills: ["AI", "Natural Language", "Frontend"],
+    },
+    {
+      name: "Bak Wave",
+      title: "Full Stack Developer",
+      email: "bak.wave@ku.com",
+      phone: "0629999999",
+      location: "Chonburi, Thailand",
+      company: "KU SRC",
+      skills: ["Mobile App", "Machine Learning", "UX/UI design"],
+    },
+    {
+      name: "Diwjiw Jiw",
+      title: "Project Manager",
+      email: "diwjiw.jiw@ku.th",
+      phone: "0623456789",
+      location: "Chonburi, Thailand",
+      company: "KU SRC",
+      skills: ["Project Management", "Figma", "Team Leadership"],
+    }
