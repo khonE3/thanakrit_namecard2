@@ -1,30 +1,47 @@
-{
-      name: "Thanakrit Thualthao",
-      title: "AI Assistant",
-      email: "thanakrit.thu@ku.th",
-      phone: "0627395866",
-      location: "Chonburi, Thailand",
-      company: "KU SRC",
-      skills: ["AI", "Natural Language", "Frontend"],
-      profileImage: "https://scontent.futp1-2.fna.fbcdn.net/v/t39.30808-6/421105035_1898785960561984_3004522515898898196_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH3NT9YjXi2xvsX4oTtw-trGn_Q8LiLdRgaf9DwuIt1GAFd7HFIMr_GLFJYosw6yogM3i0HFkLUndOuMkpVzzJY&_nc_ohc=UU8_5dlGBCUQ7kNvwEyBs6R&_nc_oc=AdkDERKQLPB4nS2e4hFntAraqRDHouIMkDil_NnW81zgQFOPRs99Fi0wxJQz6O-9b665DoVkuFiN0G-FpE1e-juA&_nc_zt=23&_nc_ht=scontent.futp1-2.fna&_nc_gid=rkIdmorxFJKMrjCHB3-nmQ&oh=00_AfT2JSFzmSxuOpt55wrdasYqe3r8iShdTTFcP0mYc0C0OQ&oe=68716BEF",
-    },
-    {
-      name: "Bak Wave",
-      title: "Full Stack Developer",
-      email: "bak.wave@ku.com",
-      phone: "0629999999",
-      location: "Chonburi, Thailand",
-      company: "KU SRC",
-      skills: ["Mobile App", "Machine Learning", "UX/UI design"],
-      profileImage: "https://scontent.futp1-1.fna.fbcdn.net/v/t39.30808-1/456690719_1403951840287327_5486356930211929038_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGmxcdZrTaCXLWyAh_yUV0TiT2H9Ft9DIGJPYf0W30MgUcjLBo5LJHJHyI-lqmJY0levMnD0qvNw0Xnu4Y8nc4o&_nc_ohc=hjMyzIVbu1QQ7kNvwH411PK&_nc_oc=AdnD8y2NAQBSv5nok3RTkPbXyHW28_N1R8bpB051HkXbhWMW2v0qIF1CzmATw-Cz1AjCmkhiXzQUnAej3CRPLaPY&_nc_zt=24&_nc_ht=scontent.futp1-1.fna&_nc_gid=mzK-LGOWRxcVTZWbT2U33w&oh=00_AfSuOCgO1kffAEZ4AbzLlyzprTvye40xK1_Oi6RrBqL7dw&oe=68716BB3",
-    },
-    {
-      name: "Diwjiw Jiw",
-      title: "Project Manager",
-      email: "diwjiw.jiw@ku.th",
-      phone: "0623456789",
-      location: "Chonburi, Thailand",
-      company: "KU SRC",
-      skills: ["Project Management", "Figma", "Team Leadership"],
-      profileImage: "https://scontent.futp1-1.fna.fbcdn.net/v/t39.30808-6/495467954_122233703528034056_8997782461824049233_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF8vOARHd7J40SgDZFHgREKWp7uHSAKTGFanu4dIApMYc51O6k_oHOFsz4ehqqO6zQYMOw_udTFx6WaC7fEH8pM&_nc_ohc=-TROdTRdLscQ7kNvwFDrWC4&_nc_oc=AdlZjSllgvwtjXL0nafCi7wzqjnNi0qeCKZvY1yG-gerIVYwyoFgPGKWZk7aqtn7JZ-Gcm4CbCB0WZhWFlA0jmyS&_nc_zt=23&_nc_ht=scontent.futp1-1.fna&_nc_gid=NP-p3edWqpxL-MmL3THD1A&oh=00_AfS8kCzt59UeNCusk8_xgjEmJBHTOvzAtRIQk7Us6V5erw&oe=68715909",
-    }
+[
+ {
+    "name": "thanakrit khonE3 mak mak ",
+    "title": "AI Assistant", 
+    "email": "thanakrit.thu@ku.th",
+    "phone": "0627395866",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "AI",
+      "Natural Language",
+      "Frontend"
+    ],
+    "profileImage": "https://raw.githubusercontent.com/Kritchanaxt/kritchanat_json/main/E3.JPG"
+  },
+  {
+    "name": "Kritchanat Malaikwan",
+    "title": "Full Stack Developer",
+    "email": "kritchanat.m@ku.th",
+    "phone": "0648593645",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "Mobile App",
+      "Machine Learning", 
+      "UX/UI design",
+      "Frontend",
+      "Backend"
+    ],
+    "profileImage": "https://raw.githubusercontent.com/Kritchanaxt/kritchanat_json/main/MTXX_MH๒๐๒๓๐๕๒๗_๑๑๒๒๕๓๐๒๖.jpg"
+  },
+  
+  {
+    "name": "Tanakit Sirite",
+    "title": "Project Manager",
+    "email": "tanakit.sirite@live.ku.th", 
+    "phone": "0623456789",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "Project Management",
+      "Backend", 
+      "Data Engineering"
+    ],
+    "profileImage": "https://raw.githubusercontent.com/Kritchanaxt/kritchanat_json/main/473621705_122215256564034056_4312949588190490678_n.jpg"
+  }
+]
