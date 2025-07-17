@@ -1,7 +1,7 @@
 [
- {
+  {
     "name": "thanakrit khonE3 mak mak ",
-    "title": "AI Assistant", 
+    "title": "AI Assistant",
     "email": "thanakrit.thu@ku.th",
     "phone": "0627395866",
     "location": "Chonburi, Thailand",
@@ -11,7 +11,7 @@
       "Natural Language",
       "Frontend"
     ],
-    "profileImage": "https://raw.githubusercontent.com/khonE3/kritchanat_json/main/got.jpg"
+    "profileImage": "./got.jpg"
   },
   {
     "name": "Kritchanat Malaikwan",
@@ -22,26 +22,25 @@
     "university": "KU SRC",
     "skills": [
       "Mobile App",
-      "Machine Learning", 
+      "Machine Learning",
       "UX/UI design",
       "Frontend",
       "Backend"
     ],
-    "profileImage": "https://raw.githubusercontent.com/Kritchanaxt/kritchanat_json/main/bakwave.jpg"
+    "profileImage": "./bakwave.jpg"
   },
-  
   {
     "name": "Tanakit Sirite",
     "title": "Project Manager",
-    "email": "tanakit.sirite@live.ku.th", 
+    "email": "tanakit.sirite@live.ku.th",
     "phone": "0623456789",
     "location": "Chonburi, Thailand",
     "university": "KU SRC",
     "skills": [
       "Project Management",
-      "Backend", 
+      "Backend",
       "Data Engineering"
     ],
-    "profileImage": "https://raw.githubusercontent.com/Kritchanaxt/kritchanat_json/main/got.jpg"
+    "profileImage": "./DIW.jpg"
   }
 ]
